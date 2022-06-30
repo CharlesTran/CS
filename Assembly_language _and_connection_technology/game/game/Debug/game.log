@@ -1,0 +1,5 @@
+﻿  Assembling 2 (2).asm...
+2 (2).asm(307): warning A6004: procedure argument or local not referenced : temp
+2 (2).asm(508): warning A6004: procedure argument or local not referenced : myarr
+2 (2).asm(508): warning A6004: procedure argument or local not referenced : rivalarr
+  game.vcxproj -> D:\Documents\Assembly_language _and_connection_technology\game\Debug\game.exe

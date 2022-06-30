@@ -1,0 +1,7 @@
+﻿  Assembling TEST.asm...
+TEST.asm(121): warning A6004: procedure argument or local not referenced : @1
+TEST.asm(121): warning A6004: procedure argument or local not referenced : @12
+TEST.asm(121): warning A6004: procedure argument or local not referenced : @2
+TEST.asm(121): warning A6004: procedure argument or local not referenced : @5
+TEST.asm(121): warning A6004: procedure argument or local not referenced : @8
+  test.vcxproj -> D:\Documents\Assembly_language _and_connection_technology\test\Debug\test.exe

@@ -1,0 +1,3 @@
+﻿  Assembling snake.asm...
+snake.asm(653): warning A6004: procedure argument or local not referenced : @hBMP
+  Greedy Snake.vcxproj -> F:\Visual Studio\project\ASM\Greedy Snake\Debug\Greedy Snake.exe
