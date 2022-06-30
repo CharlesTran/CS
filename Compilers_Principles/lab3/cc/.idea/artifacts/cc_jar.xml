@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="cc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cc_jar</output-path>
+    <root id="root">
+      <element id="archive" name="cc.jar">
+        <element id="module-output" name="cc" />
+        <element id="library" level="project" name="antlr-4.7.2-complete" />
+      </element>
+    </root>
+  </artifact>
+</component>
