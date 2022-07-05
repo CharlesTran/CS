@@ -1,0 +1,4 @@
+﻿  exercise2.cpp
+D:\Documents\软件测试与质量保证\Project1\exercise2.cpp(32,7): warning C4101: “a”: 未引用的局部变量
+D:\Documents\软件测试与质量保证\Project1\exercise2.cpp(32,10): warning C4101: “c”: 未引用的局部变量
+  Project1.vcxproj -> D:\Documents\软件测试与质量保证\Project1\x64\Debug\Project1.exe
